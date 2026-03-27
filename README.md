@@ -74,7 +74,7 @@ Note: Data extraction from BigQuery requires SQL queries, even when executed thr
 <hr>
 
 <h3>2. Data Visualization — Tableau</h3>
-<p align="center">
+<p align="left">
   <a href="https://public.tableau.com/views/Cyclist_Case_Dashboard/Dashboard14?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     🔗 View Interactive Tableau Dashboard
   </a>
