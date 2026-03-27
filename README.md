@@ -66,7 +66,7 @@ Trip data was queried using Google BigQuery, a cloud-based data warehouse design
 The Jupyter Notebook included in this repository demonstrates how to connect to BigQuery, execute SQL queries, and retrieve results programmatically.
 </p>
 
-<h2>⚠️ Reproducibility</h2>
+<h2>Reproducibility</h2>
 
 <p>
 The dataset used in this project is publicly available from the Divvy bike-share system. However, in this analysis the data was stored and queried using Google BigQuery within a private Google Cloud project.
@@ -77,7 +77,7 @@ To reproduce this workflow, users can:
 </p>
 
 <ul>
-<li>Download the dataset from the source link provided above</li>
+<li>Download the dataset from the source link provided above (Data Source section)</li>
 <li>Upload the data to their own Google BigQuery project</li>
 <li>Update the <code>PROJECT_ID</code> and dataset references in the code</li>
 <li>Authenticate using Google Cloud credentials</li>
@@ -90,10 +90,6 @@ Alternatively, the SQL queries included in this project can be adapted to run on
 <p>
 Note: Data extraction from BigQuery requires SQL queries, even when executed through Python.
 </p>
-<p>
-Note: Data extraction from BigQuery requires SQL queries, even when executed through Python.
-</p>
-
 <hr>
 
 <h3>2. Data Visualization — Tableau</h3>
