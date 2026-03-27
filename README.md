@@ -119,10 +119,11 @@ Note: GitHub does not support embedded Tableau visualizations. The interactive d
 <h2>Key Insights</h2>
 
 <ul>
+<li>Members account for 60% of all trips</li> 
 <li>Casual riders tend to take longer rides compared to members</li>
 <li>Members show more consistent usage patterns throughout the week</li>
-<li>Casual riders are more active on weekends and during leisure hours</li>
-<li>Ride patterns vary significantly by time of day and day of the week</li>
+<li>Casual riders are more active and take longer rides on weekends</li>
+<li>Member activity peaks during commuting hours, while casual riders show a modest increase in the afternoon/li>
 </ul>
 
 <hr>
