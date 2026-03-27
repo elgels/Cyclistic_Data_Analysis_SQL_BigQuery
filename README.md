@@ -25,7 +25,7 @@ Data was queried using Google BigQuery (SQL) and visualized in Tableau to analyz
 <h2>Project Structure</h2>
 
 <pre>
-├── cyclistic-case-study.ipynb
+├── Cyclistic_Data_Analysis_SQL_BigQuery
 └── README.md
 </pre>
 
