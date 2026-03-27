@@ -96,7 +96,7 @@ The Tableau dashboard includes:
 
 <p align="center">
   <a href="https://public.tableau.com/views/Top200MostFrequentRoutesforCasualRiders/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-    <img src="https://public.tableau.com/static/images/To/Top500CasualRides/Dashboard1/1.png" width="700">
+    <img src="https://public.tableau.com/static/images/To/Top200MostFrequentRoutesforCasualRiders/Dashboard1/1.png" width="700">
   </a>
 </p>
 
