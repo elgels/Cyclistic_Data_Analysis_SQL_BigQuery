@@ -88,14 +88,14 @@ The Tableau dashboard includes:
 </p>
 
 <ul>
-<li>Number of Trips by Bike Type</li>
-<li>Average Ride Length by Bike Type</li>
-<li>Number of Trips by Month</li>
-<li>Average Ride Length by Month</li>
+<li>Number of Trips by Rider Type</li>
+<li>Average Ride Length by Rider Type</li>
+<li>Average Ride Distance by Rider Type</li>
+<li>Map of 200 Most Frequent Routes for Casual Riders (Chicago)</li>
+<li>Map of 200 Most Frequent Routes for Member Riders (Chicago)</li>
 <li>Number of Trips by Day of the Week</li>
 <li>Average Ride Length by Day of the Week</li>
 <li>Trip Patterns by Hour of the Day</li>
-<li>Map of Top 200 Casual Routes in Chicago</li>
 </ul>
 
 <p align="center">
