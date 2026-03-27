@@ -74,7 +74,11 @@ Note: Data extraction from BigQuery requires SQL queries, even when executed thr
 <hr>
 
 <h3>2. Data Visualization — Tableau</h3>
-
+<p align="center">
+  <a href="https://public.tableau.com/views/Cyclist_Case_Dashboard/Dashboard14?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+    🔗 View Interactive Tableau Dashboard
+  </a>
+</p
 <p>
 The extracted data was used to create visualizations in Tableau. The BigQuery workflow was used to prepare and structure the data, which was then imported into Tableau for analysis.
 </p>
