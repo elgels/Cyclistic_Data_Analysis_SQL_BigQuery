@@ -123,7 +123,7 @@ Note: GitHub does not support embedded Tableau visualizations. The interactive d
 <li>Casual riders tend to take longer rides compared to members</li>
 <li>Members show more consistent usage patterns throughout the week</li>
 <li>Casual riders are more active and take longer rides on weekends</li>
-<li>Member activity peaks during commuting hours, while casual riders show a modest increase in the afternoon/li>
+<li>Member activity peaks during commuting hours, while casual riders show a modest increase in the afternoon</li>
 </ul>
 
 <hr>
