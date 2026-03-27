@@ -101,7 +101,7 @@ The Tableau dashboard includes:
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/views/Top500CasualRides/Dashboard1?:showVizHome=no">
+  <a href="https://public.tableau.com/views/Cyclist_Case_Dashboard/Dashboard14?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     🔗 View Interactive Tableau Dashboard
   </a>
 </p>
