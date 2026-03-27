@@ -4,16 +4,12 @@
 Data analysis project exploring bike-share usage patterns using Google BigQuery (SQL) and Tableau to generate business insights and marketing recommendations.
 </p>
 
-<p align="center">
-This project was completed as part of the Google Data Analytics Professional Certificate (2023).
-</p>
 
 <hr>
 
 <h2>Project Overview</h2>
-
 <p>
-This project analyzes Cyclistic bike-share data to understand differences between casual riders and annual members. The objective is to identify behavioral patterns and provide data-driven recommendations to support marketing strategies aimed at converting casual riders into members.
+Completed as part of the Google Data Analytics Professional Certificate (2023), this project analyzes Cyclistic bike-share data to understand differences between casual riders and annual members. It aims to identify behavioral patterns and provide data-driven recommendations to support marketing strategies that convert casual riders into members. Data was queried using Google BigQuery (SQL) and visualized in Tableau.
 </p>
 
 <p>
