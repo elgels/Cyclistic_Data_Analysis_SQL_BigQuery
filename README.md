@@ -160,5 +160,4 @@ This project is licensed under the MIT License.
 
 <hr>
 
-<a href="https://github.com/elgels">GitHub Profile</a>
-</p>
+
