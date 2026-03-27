@@ -32,13 +32,23 @@ Data was queried using Google BigQuery (SQL) and visualized in Tableau to analyz
 <hr>
 
 <h2>Data Source</h2>
-
 <ul>
 <li>
-Cyclistic trip data (Google BigQuery dataset)
+Cyclistic trip data (Divvy bike-share system, Chicago):
+<a href="https://divvy-tripdata.s3.amazonaws.com/index.html">
+Divvy Trip Data
+</a>
 </li>
+
 <li>
-Dataset contains historical trip data including ride duration, bike type, start/end stations, and timestamps
+Data license:
+<a href="https://divvybikes.com/data-license-agreement">
+Divvy Data License Agreement
+</a>
+</li>
+
+<li>
+Data was queried using Google BigQuery for large-scale analysis
 </li>
 </ul>
 
