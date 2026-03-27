@@ -77,7 +77,7 @@ To reproduce this workflow, users can:
 </p>
 
 <ul>
-<li>Download the dataset from the source link provided above (Data Source section)</li>
+<li>Download the dataset from the source link provided above (in Data Source section)</li>
 <li>Upload the data to their own Google BigQuery project</li>
 <li>Update the <code>PROJECT_ID</code> and dataset references in the code</li>
 <li>Authenticate using Google Cloud credentials</li>
